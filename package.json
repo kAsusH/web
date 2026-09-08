@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "bootswatch": "^5.3.8",
+    "font-awesome": "^4.7.0",
+    "tinymce": "^8.9.0"
+  }
+}
